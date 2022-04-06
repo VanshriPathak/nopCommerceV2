@@ -1,0 +1,700 @@
+2022-03-30 11:49:39,319 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-03-30 11:49:39,465 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-03-30 11:49:46,263 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-03-30 11:49:52,220 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-03-30 12:02:09,438 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-03-30 12:02:09,582 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-03-30 12:02:14,893 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-03-30 12:02:20,841 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-03-30 12:02:24,899 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-03-30 12:02:25,052 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-03-30 12:02:31,925 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-03-30 12:02:38,023 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-03-30 12:28:41,175 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-03-30 12:28:41,327 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-03-30 12:28:47,069 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-03-30 12:28:53,003 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-03-30 12:28:57,042 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-03-30 12:28:57,187 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-03-30 12:29:03,573 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-03-30 12:29:09,551 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-01 10:07:14,405 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-01 10:07:14,567 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-01 10:07:20,734 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-01 10:07:27,474 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-01 10:07:31,814 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-01 10:07:31,958 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-01 10:07:38,056 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-01 10:07:44,062 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-01 13:03:23,600 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-01 13:03:23,748 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-01 13:03:29,618 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-01 13:03:36,087 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-01 13:03:42,684 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-01 13:03:42,843 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-01 13:03:48,986 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-01 13:03:55,205 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-01 13:09:07,480 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-01 13:09:07,747 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-01 13:09:14,215 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-01 13:09:20,484 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-01 13:09:27,110 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-01 13:09:27,256 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-01 13:09:33,236 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-01 13:09:39,400 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-01 13:10:30,535 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-01 13:10:30,702 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-01 13:10:36,371 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-01 13:10:42,416 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-01 18:28:12,150 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-01 18:28:12,361 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-01 18:28:17,821 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-01 18:28:21,901 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-01 18:28:22,049 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-01 18:28:22,726 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-01 18:28:24,743 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-01 18:28:25,264 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-01 18:28:25,416 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-01 18:28:25,931 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-01 18:28:27,954 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-01 18:28:28,539 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-01 18:28:28,691 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-01 18:28:29,315 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-01 18:28:31,325 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-01 18:29:34,351 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-01 18:29:34,487 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-01 18:29:40,401 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-01 18:29:46,941 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-01 18:29:51,544 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-01 18:29:51,790 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-01 18:29:55,710 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-01 18:29:59,639 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-01 18:29:59,820 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-01 18:30:00,445 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-01 18:30:02,456 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-01 18:30:02,954 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-01 18:30:03,098 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-01 18:30:03,513 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-01 18:30:05,518 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-01 18:30:06,003 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-01 18:30:06,171 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-01 18:30:06,783 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-01 18:30:08,803 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-02 17:22:22,236 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-02 17:22:22,373 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-02 17:22:39,669 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-02 17:22:45,688 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-02 17:22:50,047 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-02 17:22:50,180 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-02 17:22:52,619 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-02 17:22:55,939 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-02 17:22:56,079 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-02 17:22:56,396 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-02 17:22:58,396 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-02 17:22:58,845 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-02 17:22:59,000 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-02 17:22:59,326 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-02 17:23:01,329 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-02 17:23:01,752 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-02 17:23:01,897 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-02 17:23:02,197 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-02 17:23:04,212 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-02 17:23:08,164 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-02 17:23:08,312 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-02 17:23:12,480 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-02 17:27:09,829 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-02 17:27:09,964 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-02 17:27:13,422 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-02 17:28:52,852 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-02 17:28:52,985 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-02 17:28:57,731 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-02 17:33:25,922 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-02 17:33:26,065 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-02 17:33:29,152 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-02 17:36:52,948 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-02 17:36:53,090 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-02 17:36:55,928 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-02 17:36:56,077 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-02 17:36:57,503 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-02 17:36:59,523 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-02 17:36:59,766 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-02 17:36:59,882 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-02 19:56:27,367 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-02 19:56:27,508 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-02 19:56:30,444 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-02 19:56:30,560 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-02 19:56:32,418 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-02 19:56:34,145 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-02 19:56:34,389 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-02 19:56:34,484 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-03 18:20:01,096 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-03 18:20:01,246 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-03 18:20:06,081 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-03 18:20:06,251 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-03 18:20:10,576 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-03 18:20:13,620 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-03 18:20:13,922 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-03 18:20:14,050 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-03 18:20:19,813 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-03 18:20:20,066 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-03 18:20:20,166 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-03 18:20:20,346 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-03 18:20:20,515 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-03 18:20:20,626 - com.nopCommerceV2.testCases.BaseClass -INFO - 
+2022-04-03 18:23:51,128 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-03 18:23:51,326 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-03 18:23:54,152 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-03 18:23:54,312 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-03 18:23:56,653 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-03 18:23:59,205 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-03 18:23:59,453 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-03 18:24:02,851 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-03 18:24:06,004 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-03 18:24:09,166 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-03 18:24:12,399 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-03 18:24:15,692 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-03 18:24:18,962 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-03 18:24:22,186 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-03 18:29:23,508 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-03 18:29:23,772 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-03 18:29:26,977 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-03 18:29:27,186 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-03 18:29:31,088 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-03 18:29:35,060 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-03 18:29:35,341 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-03 18:29:41,472 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-03 18:29:44,634 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-03 18:29:47,893 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-03 18:29:51,123 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-03 18:29:54,419 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-03 18:29:57,713 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-03 18:30:00,935 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-03 18:34:19,939 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-03 18:34:20,088 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-03 18:34:23,209 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-03 18:34:23,326 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-03 18:34:25,865 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-03 18:34:28,123 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-03 18:34:28,383 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-03 18:34:31,481 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-03 18:34:34,664 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-03 18:34:37,847 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-03 18:34:41,092 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-03 18:34:44,424 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-03 18:34:47,704 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-03 18:34:50,917 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-03 18:42:09,640 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-03 18:42:09,779 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-03 18:42:13,284 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-03 18:42:13,434 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-03 18:42:16,017 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-03 18:42:18,616 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-03 18:42:18,888 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-03 18:42:22,036 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-03 18:42:25,199 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-03 18:42:28,482 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-03 18:42:31,729 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-03 18:42:35,015 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-03 18:42:38,305 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-03 18:42:41,514 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-03 18:42:44,816 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-03 18:42:48,067 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-03 18:42:51,419 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-03 18:45:53,910 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-03 18:45:54,044 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-03 18:45:56,878 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-03 18:45:57,008 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-03 18:45:58,535 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-03 18:46:00,049 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-03 18:46:00,309 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-03 18:46:03,441 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-03 18:46:06,636 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-03 18:46:09,923 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-03 18:46:13,169 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-03 18:46:16,466 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-03 18:46:19,762 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-03 18:46:22,961 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-03 18:48:23,152 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-03 18:48:23,291 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-03 18:48:36,721 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-03 18:48:36,950 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-03 18:48:39,915 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-03 18:48:45,050 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-03 18:48:45,263 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-03 18:48:48,540 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-03 18:48:51,691 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-03 18:48:54,963 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-03 18:48:58,198 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-03 18:49:01,465 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-03 18:49:04,778 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-03 18:49:07,976 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-03 18:52:16,035 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-03 18:52:16,200 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-03 18:52:20,455 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-03 18:52:20,585 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-03 18:52:22,387 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-03 18:52:25,494 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-03 18:54:12,425 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-03 18:54:12,563 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-03 18:54:15,892 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-03 18:54:16,003 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-03 18:54:19,970 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-03 18:54:21,681 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-03 18:54:21,998 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-03 18:54:25,145 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-03 18:54:28,261 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-03 18:54:31,543 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-03 18:54:34,784 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-03 18:54:38,057 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-03 18:54:41,340 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-03 18:54:44,521 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-03 18:54:47,835 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-03 18:54:51,118 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-03 18:54:54,371 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-03 18:56:56,082 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-03 18:56:56,215 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-03 18:56:59,241 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-03 18:56:59,365 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-03 18:57:00,921 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-03 18:57:02,205 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-03 18:57:02,474 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-03 18:57:05,621 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-03 18:57:08,781 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-03 18:57:11,950 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-03 18:57:15,168 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-03 18:57:18,469 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-03 18:57:21,774 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-03 18:57:24,985 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-03 18:57:28,325 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-03 18:57:31,594 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-03 18:57:34,912 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-03 18:57:39,671 - com.nopCommerceV2.testCases.BaseClass -INFO - validation started....
+2022-04-03 18:57:40,455 - com.nopCommerceV2.testCases.BaseClass -INFO - test case passed....
+2022-04-03 19:29:35,684 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-03 19:29:35,859 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-03 19:29:39,042 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-03 19:29:39,154 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-03 19:29:40,845 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-04 11:06:13,028 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-04 11:06:13,173 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-04 11:06:18,845 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-04 11:06:24,891 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-04 11:06:29,214 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-04 11:06:29,361 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-04 11:06:33,014 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-04 11:06:36,516 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-04 11:06:36,659 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-04 11:06:36,995 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-04 11:06:39,012 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-04 11:06:39,461 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-04 11:06:39,605 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-04 11:06:39,987 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-04 11:06:42,007 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-04 11:06:42,426 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-04 11:06:42,546 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-04 11:06:42,856 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-04 11:06:44,874 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-04 11:06:48,226 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-04 11:06:48,366 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-04 11:06:51,139 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-04 11:06:51,295 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-04 11:06:52,590 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-04 11:06:54,743 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-04 11:07:33,073 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-04 11:07:36,258 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-04 11:07:39,408 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-04 11:07:42,609 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-04 11:07:45,789 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-04 11:07:48,992 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-04 11:07:52,152 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-04 11:07:55,261 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-04 11:07:58,506 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-04 11:08:01,714 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-04 11:08:05,025 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-04 11:08:09,627 - com.nopCommerceV2.testCases.BaseClass -INFO - validation started....
+2022-04-04 11:08:09,922 - com.nopCommerceV2.testCases.BaseClass -INFO - test case passed....
+2022-04-04 11:08:13,271 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-04 11:08:13,422 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-04 11:08:17,206 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-04 11:08:17,343 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-04 11:08:18,685 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-04 11:08:19,253 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-04 11:08:23,319 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-04 11:08:23,508 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-04 11:08:30,971 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-04 11:08:36,951 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-04 11:29:13,641 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-04 11:29:13,795 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-04 11:29:18,154 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-04 11:29:18,272 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-04 11:29:20,126 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-04 11:29:21,256 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-04 11:29:21,441 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-04 11:29:24,625 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-04 11:29:27,794 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-04 11:29:31,004 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-04 11:29:34,128 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-04 11:29:37,333 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-04 11:29:40,535 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-04 11:29:43,644 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-04 11:29:46,946 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-04 11:29:50,128 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-04 11:29:53,312 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-04 11:29:57,567 - com.nopCommerceV2.testCases.BaseClass -INFO - validation started....
+2022-04-04 11:29:58,254 - com.nopCommerceV2.testCases.BaseClass -INFO - test case passed....
+2022-04-04 11:30:01,729 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-04 11:30:01,903 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-04 11:30:04,745 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-04 11:30:04,865 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-04 11:30:05,936 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-04 11:30:06,843 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-04 11:30:11,011 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-04 11:30:11,206 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-04 11:30:17,227 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-04 11:30:23,182 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-05 09:56:11,986 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-05 09:56:12,159 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-05 09:56:16,035 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-05 09:56:16,210 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-05 09:56:21,017 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-05 09:56:25,911 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-05 09:56:26,211 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-05 09:56:29,420 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-05 09:56:32,604 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-05 09:56:35,781 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-05 09:56:38,984 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-05 09:56:42,251 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-05 09:56:45,518 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-05 09:56:48,725 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-05 09:56:52,398 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-05 09:56:55,658 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-05 09:56:58,941 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-05 09:57:04,636 - com.nopCommerceV2.testCases.BaseClass -INFO - validation started....
+2022-04-05 09:57:05,399 - com.nopCommerceV2.testCases.BaseClass -INFO - test case passed....
+2022-04-05 09:57:09,679 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-05 09:57:09,844 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-05 09:57:13,029 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-05 09:57:13,213 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-05 09:57:14,914 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-05 09:57:16,098 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-05 09:57:24,026 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-05 09:57:24,198 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-05 09:57:31,041 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-05 09:57:37,250 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-05 10:16:03,111 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-05 10:16:03,329 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-05 10:16:07,443 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-05 10:16:07,566 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-05 10:16:10,451 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-05 10:16:13,624 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-05 10:16:13,806 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-05 10:16:16,962 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-05 10:16:20,119 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-05 10:16:23,374 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-05 10:16:26,524 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-05 10:16:29,794 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-05 10:16:33,001 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-05 10:16:36,210 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-05 10:16:39,436 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-05 10:16:42,729 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-05 10:16:45,965 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-05 10:16:51,341 - com.nopCommerceV2.testCases.BaseClass -INFO - validation started....
+2022-04-05 10:16:51,772 - com.nopCommerceV2.testCases.BaseClass -INFO - test case passed....
+2022-04-05 10:16:55,424 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-05 10:16:55,570 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-05 10:16:58,693 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-05 10:16:58,886 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-05 10:17:00,526 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-05 10:17:01,385 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-05 10:17:05,685 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-05 10:17:05,857 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-05 10:17:11,840 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-05 10:17:17,996 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-06 10:15:34,364 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:15:34,534 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:15:37,273 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:15:37,388 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:15:40,051 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:15:42,206 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-06 10:15:42,368 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-06 10:15:45,544 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-06 10:15:48,688 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-06 10:15:51,827 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-06 10:15:54,986 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-06 10:15:58,188 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-06 10:16:01,354 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-06 10:16:04,490 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-06 10:16:07,738 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-06 10:16:10,918 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-06 10:16:14,161 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-06 10:16:18,451 - com.nopCommerceV2.testCases.BaseClass -INFO - validation started....
+2022-04-06 10:16:19,100 - com.nopCommerceV2.testCases.BaseClass -INFO - test case passed....
+2022-04-06 10:16:22,433 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:16:22,549 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:16:26,047 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:16:26,155 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:16:27,999 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:16:28,933 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-06 10:16:45,755 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:16:45,922 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:16:48,511 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:16:48,613 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:16:50,178 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:16:51,272 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-06 10:16:51,411 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-06 10:16:54,622 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-06 10:16:57,785 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-06 10:17:00,979 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-06 10:17:04,106 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-06 10:17:07,286 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-06 10:17:10,482 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-06 10:17:13,560 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-06 10:17:16,757 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-06 10:17:19,919 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-06 10:17:23,126 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-06 10:17:27,524 - com.nopCommerceV2.testCases.BaseClass -INFO - validation started....
+2022-04-06 10:17:28,081 - com.nopCommerceV2.testCases.BaseClass -INFO - test case passed....
+2022-04-06 10:17:31,857 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:17:31,976 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:17:34,908 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:17:35,025 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:17:37,700 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:17:38,122 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-06 10:35:54,731 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:35:54,861 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:35:57,025 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:35:57,170 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:35:58,525 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:36:00,315 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-06 10:36:00,444 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-06 10:36:03,589 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-06 10:36:06,742 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-06 10:36:09,883 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-06 10:36:13,047 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-06 10:36:16,234 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-06 10:36:19,419 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-06 10:36:22,522 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-06 10:36:25,720 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-06 10:36:28,926 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-06 10:36:32,090 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-06 10:36:36,513 - com.nopCommerceV2.testCases.BaseClass -INFO - validation started....
+2022-04-06 10:36:36,770 - com.nopCommerceV2.testCases.BaseClass -INFO - test case passed....
+2022-04-06 10:36:39,900 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:36:40,049 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:36:42,356 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:36:42,546 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:36:43,841 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:36:44,275 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-06 10:40:42,513 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:40:42,683 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:40:45,268 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:40:45,435 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:40:47,187 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:40:48,412 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-06 10:40:48,590 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-06 10:40:51,724 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-06 10:40:54,890 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-06 10:40:58,084 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-06 10:41:01,247 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-06 10:41:04,457 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-06 10:41:07,656 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-06 10:41:10,775 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-06 10:41:13,993 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-06 10:41:17,180 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-06 10:41:20,366 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-06 10:41:25,009 - com.nopCommerceV2.testCases.BaseClass -INFO - validation started....
+2022-04-06 10:41:25,285 - com.nopCommerceV2.testCases.BaseClass -INFO - test case passed....
+2022-04-06 10:41:29,411 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:41:29,570 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:41:34,514 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:41:34,689 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:41:36,707 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:41:37,207 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-06 10:41:42,185 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-06 10:41:42,343 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-06 10:41:49,729 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-06 10:41:56,070 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-06 10:44:47,477 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-06 10:44:47,595 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-06 10:44:53,139 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-06 10:44:59,093 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-06 10:45:03,616 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-06 10:45:03,757 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-06 10:45:06,392 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-06 10:45:09,844 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-06 10:45:09,959 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-06 10:45:10,292 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-06 10:45:12,304 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-06 10:45:12,704 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-06 10:45:12,831 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-06 10:45:13,147 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-06 10:45:15,164 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-06 10:45:15,537 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-06 10:45:15,709 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-06 10:45:16,004 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-06 10:45:18,018 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-06 10:47:23,179 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-06 10:47:23,322 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-06 10:48:09,072 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-06 10:48:15,129 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-06 10:48:19,648 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-06 10:48:19,794 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-06 10:48:22,706 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-06 10:48:26,208 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-06 10:48:26,350 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-06 10:48:26,720 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-06 10:48:28,748 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-06 10:48:29,218 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-06 10:48:29,375 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-06 10:48:29,751 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-06 10:48:31,769 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-06 10:48:32,230 - com.nopCommerceV2.testCases.BaseClass -INFO - User provided
+2022-04-06 10:48:32,367 - com.nopCommerceV2.testCases.BaseClass -INFO - Password provided
+2022-04-06 10:48:32,891 - com.nopCommerceV2.testCases.BaseClass -INFO - Login in Clicked
+2022-04-06 10:48:34,909 - com.nopCommerceV2.testCases.BaseClass -INFO - Login Failed
+2022-04-06 10:53:43,242 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-06 10:53:43,468 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-06 10:53:49,374 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-06 10:53:55,336 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-06 10:53:58,771 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:53:58,916 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:54:01,697 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:54:01,806 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:54:03,084 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:54:03,556 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-06 10:54:49,741 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-06 10:54:49,943 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-06 10:54:55,341 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-06 10:55:01,459 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-06 10:55:04,942 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:55:05,095 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:55:07,609 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:55:07,752 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:55:09,127 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:55:09,612 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-06 10:55:41,823 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-06 10:55:41,952 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-06 10:55:47,285 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-06 10:55:53,197 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-06 10:55:56,244 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:55:56,398 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:55:58,585 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:55:58,725 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:55:59,872 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:56:00,441 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-06 10:57:20,174 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-06 10:57:20,322 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-06 10:57:26,070 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-06 10:57:32,133 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-06 10:57:35,628 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:57:35,803 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:57:38,062 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:57:38,232 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:57:39,594 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:57:42,945 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-06 10:57:43,082 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-06 10:57:46,240 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-06 10:57:49,410 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-06 10:57:52,631 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-06 10:57:55,772 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-06 10:57:58,926 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-06 10:58:02,154 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-06 10:58:05,315 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-06 10:58:08,583 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-06 10:58:11,781 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-06 10:58:15,004 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-06 10:58:20,252 - com.nopCommerceV2.testCases.BaseClass -INFO - validation started....
+2022-04-06 10:58:20,511 - com.nopCommerceV2.testCases.BaseClass -INFO - test case passed....
+2022-04-06 10:58:23,970 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:58:24,142 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:58:26,612 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:58:26,771 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:58:28,031 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:58:28,515 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-06 10:58:51,481 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-06 10:58:51,664 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-06 10:58:57,273 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-06 10:59:03,197 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-06 10:59:06,736 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:59:06,880 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:59:09,384 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:59:09,509 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:59:10,903 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:59:11,797 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-06 10:59:12,188 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-06 10:59:15,355 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-06 10:59:18,554 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-06 10:59:21,736 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-06 10:59:24,903 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-06 10:59:28,061 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-06 10:59:31,248 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-06 10:59:34,333 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-06 10:59:37,606 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-06 10:59:40,807 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-06 10:59:44,120 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-06 10:59:48,306 - com.nopCommerceV2.testCases.BaseClass -INFO - validation started....
+2022-04-06 10:59:48,908 - com.nopCommerceV2.testCases.BaseClass -INFO - test case passed....
+2022-04-06 10:59:51,986 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 10:59:52,134 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 10:59:54,662 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 10:59:54,763 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 10:59:56,046 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 10:59:56,651 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-06 11:00:21,708 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-06 11:00:21,827 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-06 11:00:27,489 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-06 11:00:33,501 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-06 11:00:36,930 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 11:00:37,060 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 11:00:42,150 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 11:00:42,251 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 11:00:44,385 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 11:00:46,962 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-06 11:00:47,149 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-06 11:00:50,286 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-06 11:00:53,499 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-06 11:00:56,697 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-06 11:00:59,824 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-06 11:01:02,967 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-06 11:01:06,240 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-06 11:01:09,387 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-06 11:01:12,550 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-06 11:01:15,728 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-06 11:01:18,989 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-06 11:01:23,478 - com.nopCommerceV2.testCases.BaseClass -INFO - validation started....
+2022-04-06 11:01:23,735 - com.nopCommerceV2.testCases.BaseClass -INFO - test case passed....
+2022-04-06 11:01:26,993 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 11:01:27,127 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 11:01:29,396 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 11:01:29,512 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 11:01:30,871 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 11:01:31,310 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
+2022-04-06 12:46:00,223 - com.nopCommerceV2.testCases.BaseClass -INFO - User Provided
+2022-04-06 12:46:00,371 - com.nopCommerceV2.testCases.BaseClass -INFO - Password Provided
+2022-04-06 12:46:06,630 - com.nopCommerceV2.testCases.BaseClass -INFO - Login done 
+2022-04-06 12:46:12,511 - com.nopCommerceV2.testCases.BaseClass -INFO - Logout is sucessful
+2022-04-06 12:46:15,870 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 12:46:16,027 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 12:46:20,330 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 12:46:20,484 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 12:46:21,648 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 12:46:25,423 - com.nopCommerceV2.testCases.BaseClass -INFO - Add new customer is clicked ..
+2022-04-06 12:46:25,575 - com.nopCommerceV2.testCases.BaseClass -INFO - email entered,,
+2022-04-06 12:46:28,773 - com.nopCommerceV2.testCases.BaseClass -INFO - Password set..
+2022-04-06 12:46:31,933 - com.nopCommerceV2.testCases.BaseClass -INFO - first name set..
+2022-04-06 12:46:35,099 - com.nopCommerceV2.testCases.BaseClass -INFO - last name is set ..
+2022-04-06 12:46:38,229 - com.nopCommerceV2.testCases.BaseClass -INFO - radio button gender selected ..
+2022-04-06 12:46:41,409 - com.nopCommerceV2.testCases.BaseClass -INFO - dob set..
+2022-04-06 12:46:44,542 - com.nopCommerceV2.testCases.BaseClass -INFO - company name set ..
+2022-04-06 12:46:47,701 - com.nopCommerceV2.testCases.BaseClass -INFO - Check Box is tax is set ..
+2022-04-06 12:46:50,919 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer role is set ..
+2022-04-06 12:46:54,133 - com.nopCommerceV2.testCases.BaseClass -INFO - Vendor 1 is selected ..
+2022-04-06 12:46:57,330 - com.nopCommerceV2.testCases.BaseClass -INFO - Admin comment is selected ..
+2022-04-06 12:47:02,636 - com.nopCommerceV2.testCases.BaseClass -INFO - validation started....
+2022-04-06 12:47:02,923 - com.nopCommerceV2.testCases.BaseClass -INFO - test case passed....
+2022-04-06 12:47:06,155 - com.nopCommerceV2.testCases.BaseClass -INFO - userName is set...
+2022-04-06 12:47:06,272 - com.nopCommerceV2.testCases.BaseClass -INFO - Password is set...
+2022-04-06 12:47:11,559 - com.nopCommerceV2.testCases.BaseClass -INFO - Log in is set...
+2022-04-06 12:47:11,663 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer in main menu click..
+2022-04-06 12:47:12,491 - com.nopCommerceV2.testCases.BaseClass -INFO - Customer sub menu click ..
+2022-04-06 12:47:13,348 - com.nopCommerceV2.testCases.BaseClass -INFO - test case No data for customer info ....
